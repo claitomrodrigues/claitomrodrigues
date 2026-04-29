@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Claitom Rodrigues</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD5FFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;T%C3%A9cnico+em+Manuten%C3%A7%C3%A3o+e+Suporte+em+Inform%C3%A1tica;Frontend+com+HTML,+CSS,+JS+e+Bootstrap;Backend+com+PHP,+Laravel+e+Java;Banco+de+dados+com+MySQL+e+SQLite;No%C3%A7%C3%B5es+de+AWS;Em+busca+da+primeira+oportunidade+como+dev" alt="Typing SVG" />
-</h3>
+<center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD5FFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;T%C3%A9cnico+em+Manuten%C3%A7%C3%A3o+e+Suporte+em+Inform%C3%A1tica;Frontend+com+HTML,+CSS,+JS+e+Bootstrap;Backend+com+PHP,+Laravel+e+Java;Banco+de+dados+com+MySQL+e+SQLite;No%C3%A7%C3%B5es+de+AWS;Em+busca+da+primeira+oportunidade+como+dev" alt="Typing SVG" />
+</h3></center>
 
 ---
 
