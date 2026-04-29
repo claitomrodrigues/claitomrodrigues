@@ -8,9 +8,11 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em **Manutenção e Suporte em Informática**.
+Tenho foco no desenvolvimento full stack, criando aplicações completas desde a interface até a lógica de negócio.
 
-Tenho foco em desenvolvimento de sistemas web com **PHP, Laravel, Java e MySQL**, criando aplicações funcionais, organizadas e com boa estrutura.
+No frontend, trabalho com HTML, CSS, JavaScript e Bootstrap, desenvolvendo interfaces responsivas e funcionais.
+
+No backend, utilizo PHP e Laravel para construção de sistemas organizados, com autenticação, CRUD e integração com banco de dados.
 
 Atualmente estou aprimorando minhas habilidades através de projetos práticos e buscando minha primeira oportunidade como desenvolvedor.
 
