@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Claitom Rodrigues
 
-<!--
-**claitomrodrigues/claitomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Técnico em Manutenção e Suporte em Informática
+🚀 Em busca da minha primeira oportunidade como desenvolvedor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento de sistemas. Tenho experiência com projetos utilizando Laravel, PHP, Java e MySQL, focando na criação de aplicações web funcionais e organizadas.
+
+Atualmente estou aprimorando minhas habilidades práticas através de projetos reais, buscando evoluir constantemente como desenvolvedor.
+
+---
+
+## 🛠 Tecnologias
+
+* 💻 PHP / Laravel
+* ☕ Java
+* 🗄 MySQL / SQLite
+* 🎨 HTML, CSS, Bootstrap
+* 🔧 Git e GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+* 🎓 Sistema de Gerenciamento de TCC
+* 💪 Sistema de Academia
+* 🏨 Sistema de Hospedagem
+* 🍺 PampaBrew (Java)
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade na área de tecnologia, aplicando meus conhecimentos em projetos reais e evoluindo profissionalmente.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/claitom-rodrigues
