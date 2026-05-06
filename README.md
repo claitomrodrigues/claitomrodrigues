@@ -12,7 +12,7 @@ Tenho foco no desenvolvimento full stack, criando aplicações completas desde a
 
 No frontend, trabalho com HTML, CSS, JavaScript e Bootstrap, desenvolvendo interfaces responsivas e funcionais.
 
-No backend, utilizo PHP e Laravel para construção de sistemas organizados, com autenticação, CRUD e integração com banco de dados.
+No backend, utilizo PHP e Laravel para construção de sistemas organizados, com autenticação, CRUD, geração de PDF e integração com banco de dados.
 
 Atualmente estou aprimorando minhas habilidades através de projetos práticos e buscando minha primeira oportunidade como desenvolvedor.
 
@@ -29,8 +29,8 @@ Atualmente estou aprimorando minhas habilidades através de projetos práticos e
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claitomrodrigues&layout=compact&langs_count=8&theme=dracula&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claitomrodrigues&layout=compact&langs_count=8&theme=dracula" />
 </div>
 
 ---
@@ -66,38 +66,16 @@ Atualmente estou aprimorando minhas habilidades através de projetos práticos e
 
 ---
 
-## 📈 Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=claitomrodrigues&theme=dracula&hide_border=false" />
-</p>
-
----
-
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade na área de tecnologia, aplicando meus conhecimentos em projetos reais e evoluindo como desenvolvedor.
+Conquistar minha primeira oportunidade na área de tecnologia, aplicando meus conhecimentos em projetos reais e evoluindo como desenvolvedor full stack.
 
 ---
 
 ## 📫 Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/claitom-rodrigues" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="mailto:rodriguesclaitom0@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://github.com/claitomrodrigues" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+- LinkedIn: https://www.linkedin.com/in/claitom-rodrigues-a6118a307/
+- GitHub: https://github.com/claitomrodrigues
+- E-mail: rodriguesclaitom0@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/claitomrodrigues/claitomrodrigues/output/snake.svg" alt="Snake animation" />
-</p>
