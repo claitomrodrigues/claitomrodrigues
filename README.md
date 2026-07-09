@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Claitom Rodrigues 👋</h1>
+<h1 align="center">Olá! Eu sou Claitom Rodrigues </h1>
 
 <p align="center">
   Desenvolvedor Full Stack apaixonado por criar sistemas modernos, intuitivos e escaláveis.
@@ -57,11 +57,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=claitomrodrigues&theme=dracula&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=claitomrodrigues&theme=dracula&no-frame=true&margin-w=15&margin-h=15&row=1&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claitomrodrigues&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
 
