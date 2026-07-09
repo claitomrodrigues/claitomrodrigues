@@ -53,18 +53,6 @@
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claitomrodrigues&layout=compact&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
 # Projetos em Destaque
 
 <table>
