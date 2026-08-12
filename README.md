@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claitom+Rodrigues;I'm+20+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=ViniciosWE&show_icons=true&theme=dark&bg_color=060d0a&border_color=3CB371&icon_color=00c896&title_color=3CB371&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dark&bg_color=060d0a&border_color=3CB371&icon_color=00c896&title_color=3CB371&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=ViniciosWE&layout=compact&theme=dark&bg_color=060d0a&border_color=3CB371&title_color=3CB371&text_color=e8f4ef&langs_count=8&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=rodrigues&layout=compact&theme=dark&bg_color=060d0a&border_color=3CB371&title_color=3CB371&text_color=e8f4ef&langs_count=8&hide_border=false"/>
 </div>                
 
 <br>
