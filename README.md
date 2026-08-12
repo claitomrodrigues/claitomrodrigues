@@ -1,160 +1,38 @@
-<h1 align="center">Olá! Eu sou Claitom Rodrigues </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claitom+Rodrigues;I'm+20+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=ViniciosWE&show_icons=true&theme=dark&bg_color=060d0a&border_color=3CB371&icon_color=00c896&title_color=3CB371&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=ViniciosWE&layout=compact&theme=dark&bg_color=060d0a&border_color=3CB371&title_color=3CB371&text_color=e8f4ef&langs_count=8&hide_border=false"/>
+</div>                
+
+<br>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por criar sistemas modernos, intuitivos e escaláveis.
+  <img
+    src="https://raw.githubusercontent.com/claitomrodrigues/claitomrodrigues/output/space-shooter.gif"
+    width="100%"
+    alt="Animated Space Shooter contribution game"
+  />
 </p>
 
----
+<div align="center"> 
+<a href="https://www.instagram.com/claitom_r/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-## Tecnologias
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodriguesclaitom0@gmail.com&su=Contato&body=Olá, vim pelo GitHub!">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php" height="55" />
-<img src="https://skillicons.dev/icons?i=laravel" height="55" />
-<img src="https://skillicons.dev/icons?i=java" height="55" />
-<img src="https://skillicons.dev/icons?i=mysql" height="55" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="55" />
-<img src="https://skillicons.dev/icons?i=html" height="55" />
-<img src="https://skillicons.dev/icons?i=css" height="55" />
-<img src="https://skillicons.dev/icons?i=js" height="55" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="55" />
-<img src="https://skillicons.dev/icons?i=aws" height="55" />
-<img src="https://skillicons.dev/icons?i=linux" height="55" />
-<img src="https://skillicons.dev/icons?i=git" height="55" />
-<img src="https://skillicons.dev/icons?i=github" height="55" />
-<img src="https://skillicons.dev/icons?i=vscode" height="55" />
-
+<a href="https://www.linkedin.com/in/claitom-rodrigues-a6118a307" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
+</a> 
 </div>
 
----
+<br>
 
-## Contato
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/claitom-rodrigues-a6118a307/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/claitomrodrigues" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:rodriguesclaitom0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/claitom_r" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# Projetos em Destaque
-
-<table>
-<tr>
-
-<td width="50%">
-
-## FitCloud
-
-Sistema inteligente para gestão de academias desenvolvido em Laravel.
-
-### Recursos
-
-- Gestão de alunos
-- Planos
-- Matrículas
-- Treinos
-- Exercícios
-- Financeiro
-- Controle de Presenças
-- Dashboard
-- Portal do Aluno
-
-**Tecnologias**
-
-Laravel • PHP • SQLite • Bootstrap
-
-</td>
-
-<td width="50%">
-
-## Sistema de Gerenciamento de Obras
-
-Sistema desktop desenvolvido em Java para secretarias municipais.
-
-### Recursos
-
-- Equipamentos
-- Abastecimentos
-- Manutenções
-- Licitações
-- Empenhos
-- Relatórios
-- Dashboard
-
-**Tecnologias**
-
-Java • Swing • SQLite
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## Sistema de Gerenciamento de TCC
-
-Sistema acadêmico para gerenciamento de trabalhos de conclusão de curso.
-
-### Recursos
-
-- Cadastro de alunos
-- Orientadores
-- Bancas
-- Controle de TCCs
-- Autenticação
-
-**Tecnologias**
-
-Laravel • PHP • SQLite • Bootstrap
-
-</td>
-
-<td width="50%">
-
-## PampaBrew
-
-Sistema desktop para gerenciamento e avaliação de cervejas.
-
-### Recursos
-
-- Cadastro
-- Avaliações
-- Relatórios
-
-**Tecnologias**
-
-Java • Swing • MySQL
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### Obrigado pela visita!
-
-Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios ou entrar em contato.
-
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
