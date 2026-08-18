@@ -3,10 +3,33 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3030&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claitom+Rodrigues;I'm+20+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dark&bg_color=120608&border_color=DC143C&icon_color=FF3030&title_color=DC143C&text_color=FFECEF&hide_border=false&count_private=true&rank_icon=github" />
+  <img
+    height="170"
+    src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=claitomrodrigues&show_icons=true&theme=dark&bg_color=120608&border_color=DC143C&icon_color=FF3030&title_color=DC143C&text_color=FFECEF&hide_border=false&count_private=true&rank_icon=github"
+  />
   &nbsp;
-  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=rodrigues&layout=compact&theme=dark&bg_color=120608&border_color=DC143C&title_color=DC143C&text_color=FFECEF&langs_count=8&hide_border=false"/>
+  <img
+    height="170"
+    src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=claitomrodrigues&layout=compact&theme=dark&bg_color=120608&border_color=DC143C&title_color=DC143C&text_color=FFECEF&langs_count=8&hide_border=false"
+  />
 </div>
+
+<br>
+
+<h2 align="center">🌐 Meu Portfólio</h2>
+
+<p align="center">
+  Conheça meus projetos, habilidades e minha evolução como desenvolvedor.
+</p>
+
+<p align="center">
+  <a href="https://claitomrodrigues.github.io/portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Acessar_Portfólio-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Acessar portfólio"
+    />
+  </a>
+</p>
 
 <br>
 
@@ -19,16 +42,32 @@
 </p>
 
 <div align="center">
+  <a href="https://claitomrodrigues.github.io/portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Portfólio-%23DC143C?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfólio"
+    />
+  </a>
+
   <a href="https://www.instagram.com/claitom_r/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodriguesclaitom0@gmail.com&su=Contato&body=Olá, vim pelo GitHub!">
-    <img src="https://img.shields.io/badge/-Gmail-%23DC143C?style=for-the-badge&logo=gmail&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-Gmail-%23DC143C?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/claitom-rodrigues-a6118a307" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23B22222?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-%23B22222?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </div>
 
