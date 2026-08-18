@@ -16,20 +16,6 @@
 
 <br>
 
-<h2 align="center">🌐 Meu Portfólio</h2>
-
-<p align="center">
-  Conheça meus projetos, habilidades e minha evolução como desenvolvedor.
-</p>
-
-<p align="center">
-  <a href="https://claitomrodrigues.github.io/portfolio/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Acessar_Portfólio-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Acessar portfólio"
-    />
-  </a>
-</p>
 
 <br>
 
@@ -42,7 +28,7 @@
 </p>
 
 <div align="center">
-  <a href="https://claitomrodrigues.github.io/portfolio/" target="_blank">
+  <a href="https://claitomrodrigues.github.io/portifolio/" target="_blank">
     <img
       src="https://img.shields.io/badge/-Portfólio-%23DC143C?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfólio"
